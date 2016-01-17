@@ -1,4 +1,4 @@
-# Wymeditor Special Characters Plugin
+# WYMeditor Special Characters Plugin
 
 A plugin designed for the WYMeditor designed to allow easy insertion of special text characters
 Built for WYMeditor version 1.0.0 found here: http://www.wymeditor.org/download/
