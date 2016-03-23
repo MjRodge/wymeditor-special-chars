@@ -6,7 +6,7 @@ Built for WYMeditor version 1.0.0 found here: http://www.wymeditor.org/download/
 
 ***FEATURES***
 
-Allows for easy insertion of characters that require keyboard shortcuts at cursor lo. Originally built to help a Welsh education institution adhere to its bilingual policy, the code is currently configured for "â ê î ô û ŵ ŷ Â Ê Î Ô Û Ŵ Ŷ" characters.
+Allows for easy insertion of characters that require keyboard shortcuts at cursor location. Originally built to help a Welsh education institution adhere to its bilingual policy, the code is currently configured for "â ê î ô û ŵ ŷ Â Ê Î Ô Û Ŵ Ŷ" characters.
 
 The plugin can be easily configured to use any text based characters.
 
