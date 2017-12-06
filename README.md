@@ -10,13 +10,13 @@ Allows for easy insertion of characters that require keyboard shortcuts at curso
 
 The plugin can be easily configured to use any text based characters.
 
-A working example can be viewed here: http://mjrodgers.co.uk/wymeditor
+A working example can be viewed here: http://mjrodge.me/wymeditor/
 
 
-***INSTALLATION*** 
+***INSTALLATION***
 
 - After configuring WYMeditor, copy the specialchars folders into the respective plugins and skins files of your installation.
-- Insert addition script call in header tag of page you would like WYMeditor to appear on: 
+- Insert addition script call in header tag of page you would like WYMeditor to appear on:
 ```html
 <script type="text/javascript" src="wymeditor/plugins/specialchars/jquery.wymeditor.specialchars.js"></script>
 <script type="text/javascript">
